@@ -1,0 +1,3 @@
+tensorflow
+tfx==1.8.0
+kfp
